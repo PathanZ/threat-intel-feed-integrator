@@ -130,5 +130,3 @@ Ideas to level it up further:
 - Clean output for analyst consumption
 
 ---
-
-*Part of my SOC home-lab series. See also: [your other projects]*
