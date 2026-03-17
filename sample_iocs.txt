@@ -1,0 +1,18 @@
+# Sample IOC list — one per line
+# Supports: IPv4 addresses, domain names, MD5/SHA256 hashes
+# Lines starting with # are ignored
+
+# Suspicious IPs
+185.220.101.45
+45.33.32.156
+
+# Suspicious domains
+evil-domain.xyz
+update-flash-player.com
+
+# Known good (for comparison)
+8.8.8.8
+github.com
+
+# File hash (MD5)
+44d88612fea8a8f36de82e1278abb02f
