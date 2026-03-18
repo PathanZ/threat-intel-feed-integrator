@@ -93,8 +93,13 @@ output/
 
 ## Sample HTML Report
 
-The HTML report shows a summary dashboard + sortable table:
+### Single IP scan
+![Single IP Report](screenshots/single_ip_report.png)
 
+### Multiple IOCs scan
+![Multiple IOCs Report](screenshots/multiple_iocs_report.png)
+
+The HTML report shows a summary dashboard + sortable table:
 - Summary cards (malicious / suspicious / clean counts)
 - Colour-coded threat score bars per IOC
 - Source attribution (which feeds flagged each IOC)
